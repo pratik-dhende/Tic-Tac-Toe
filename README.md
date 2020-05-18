@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
- Tic Tac toe
+Made an AI for Tic Tac Toe
