@@ -6,7 +6,7 @@ This Tic Tac Toe game consists of two modes -
 In the single player mode you play against the AI which was made using the [Minimax](https://en.wikipedia.org/wiki/Minimax) algorithm.
 
 ## Builds
-WebGL: [itch.io](https://randomystic.itch.io/tic-tac-toe-with-ai) <br />
+WebGL: [randomystic.itch.io](https://randomystic.itch.io/tic-tac-toe-with-ai) <br />
 Standalone: [TicTacToe.rar](https://github.com/pratik-dhende/Tic-Tac-Toe/releases)
 
 ## Images
