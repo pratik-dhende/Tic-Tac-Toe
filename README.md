@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic Tac Toe AI
 This Tic Tac Toe game consists of two modes - 
 * Single Player Mode
 * Two Player Mode 
